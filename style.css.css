@@ -1,0 +1,110 @@
+/*CSS file*/
+
+input{
+    width: 300px;
+	margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#main-wrapper{
+	border-radius : 10px;
+	background: grey;
+        padding:5px;
+	border-radius: 5px;
+	width: 500px;
+	margin: 0 auto;
+}
+#min-wrapper{
+	border-radius : 6px;
+	background: #3498db;
+        padding:3px;
+	border-radius: 3px;
+	width: 500px;
+	margin: 0 auto;
+}
+
+.inner_container{
+	width:400px;
+	margin:0 auto;
+}
+.login_button {
+    background-color: #4CAF50;
+    color: white;
+	margin-top:10px;
+    padding:10px;
+    width: 100%;
+	font-size:18px;
+	font-weight: bold;
+}
+.register_btn{
+	background-color: #3498db;
+    color: white;
+	margin-top:10px;
+	margin-bottom:15px;
+	padding:10px;
+    width: 100%;
+	font-size:16px;
+	font-weight: bold;
+	
+}
+.back_btn{
+	margin-top:10px;
+	color: white;
+	margin-bottom:15px;
+    padding: 10px;
+    background-color: #e67e22;
+}
+.logout_button{
+	background-color: #c0392b;
+    color: white;
+	margin-top:10px;
+    padding:10px;
+    width: 100%;
+	font-size:18px;
+	font-weight: bold;
+}
+
+.sign_up_btn {
+	background-color: #3498db;
+    color: white;
+	 padding:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+    width: 100%;
+	font-size:16px;
+	font-weight: bold;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+ width: 20%;
+    border-radius: 500%;
+}
+
+.container {
+    margin: 16px;
+	width:100%;
+}
+.submit_btn{
+   background-color: #c0392b;
+    color: white;
+	margin-top:10px;
+    padding:10px;
+    width: 400%;
+	font-size:18px;
+	font-weight: bold; 
+}
+.submit_button{
+   background-color: #c0392b;
+    color: white;
+	margin-top:10px;
+    padding:10px;
+    width: 40%;
+	font-size:18px;
+	font-weight: bold; 
+}
